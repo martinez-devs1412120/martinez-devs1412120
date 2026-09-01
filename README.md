@@ -2,6 +2,7 @@
 
 3rd-year CS student. Building AI-assisted apps — I ship.
 
+- **ouroAI_agent** — from-scratch tool-using AI agent in plain Python — no frameworks. Groq + skills system + sandboxed file tools: [repo](https://github.com/martinez-devs1412120/ouroAI_agent)
 - **StudyRAG** — RAG study assistant for PDFs/PPTX: upload → chunk → TF-IDF search → Groq grounded answers with citations + per-user history (Firebase/Supabase): [repo](https://github.com/martinez-devs1412120/StudyRag) | [live](https://studyrag-4xvz.onrender.com)
 - **OJT-Hunter** — dashboard that helps students find and track OJT placements: [repo](https://github.com/martinez-devs1412120/ojt-hunter) | [live](https://martinez-devs1412120.github.io/ojt-hunter/)
 - **Kadence** — my first end-to-end web project: [repo](https://github.com/martinez-devs1412120/kadence) | [live](https://martinez-devs1412120.github.io/kadence/)
