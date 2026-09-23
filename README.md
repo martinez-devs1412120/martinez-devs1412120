@@ -16,6 +16,7 @@
 - **OJT-Hunter** — dashboard that helps students find and track OJT placements: [repo](https://github.com/martinez-devs1412120/ojt-hunter) | [live](https://martinez-devs1412120.github.io/ojt-hunter/)
 - **Kadence** — my first end-to-end shipped project: a local-first habit tracker (PWA): [repo](https://github.com/martinez-devs1412120/kadence) | [live](https://martinez-devs1412120.github.io/kadence/)
 - **Portfolio** — [martinez-devs1412120.github.io/portfolio](https://martinez-devs1412120.github.io/portfolio/)
+- **FBRAS** — Faculty Borrowing and Room Access System: equipment borrowing workflow + RFID room access control (PHP + MySQL on XAMPP): [repo](https://github.com/martinez-devs1412120/fbras)
 
 ## Stack
 
