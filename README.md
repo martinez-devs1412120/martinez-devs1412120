@@ -17,6 +17,8 @@
 - **Kadence** — my first end-to-end shipped project: a local-first habit tracker (PWA): [repo](https://github.com/martinez-devs1412120/kadence) | [live](https://martinez-devs1412120.github.io/kadence/)
 - **Portfolio** — [martinez-devs1412120.github.io/portfolio](https://martinez-devs1412120.github.io/portfolio/)
 - **FBRAS** — Faculty Borrowing and Room Access System: equipment borrowing workflow + RFID room access control (PHP + MySQL on XAMPP): [repo](https://github.com/martinez-devs1412120/fbras)
+- **BIST2** — Barangay Information System: resident registry, certificates, blotter, IDs, payments, reports with CSV export (PHP + MariaDB on XAMPP): [repo](https://github.com/martinez-devs1412120/BIST2)
+- **Brain** — Private offline knowledge graph for projects/ideas with interactive canvas, live pulse, agent-writable memory (Python stdlib + 1 HTML file, no deps): [repo](https://github.com/martinez-devs1412120/default-project)
 
 ## Stack
 
